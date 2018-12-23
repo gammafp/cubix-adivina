@@ -2,6 +2,11 @@
 Un mini juego creado para adivinar el número.
 
 ## [DEMO](https://gammafp.itch.io/cubix-adivina)
+![Logo](https://github.com/gammafp/cubix-adivina/blob/master/logo.png?raw=true)
+
+
+![Splash](https://github.com/gammafp/cubix-adivina/blob/master/splash.PNG?raw=true)
+
 
 ## Créditos 
 - Música y pixel art: [Gammafp](https://twitter.com/gammafp).
